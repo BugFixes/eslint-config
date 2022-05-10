@@ -39,7 +39,7 @@
     "@commitlint/cli": "^16.2.4",
     "@commitlint/config-conventional": "^16.2.4",
     "eslint": "^8.15.0",
-    "husky": "^8.0.0",
+    "husky": "^8.0.1",
     "standard-version": "^9.3.2"
   },
   "dependencies": {
