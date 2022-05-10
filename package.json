@@ -43,7 +43,7 @@
     "standard-version": "^9.3.2"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.22.0",
+    "@typescript-eslint/eslint-plugin": "^5.23.0",
     "@typescript-eslint/parser": "^5.23.0",
     "eslint-plugin-jest": "^26.1.5",
     "eslint-plugin-jsx-a11y": "^6.5.1",
